@@ -54,3 +54,13 @@ The system addresses challenges such as:
 2. Compute user similarity (e.g., cosine similarity)  
 3. Identify top-K similar users  
 4. Predict ratings
+
+---
+
+##  Methodology
+
+### Team Members
+1. Aneerban Chowdhury (M24DE3011)
+2. Naresh Krishna Vemuri (M24DE3052)
+3. Pavani Racham (M24DE3059)
+
