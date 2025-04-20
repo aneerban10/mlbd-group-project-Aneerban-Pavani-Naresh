@@ -57,9 +57,7 @@ The system addresses challenges such as:
 
 ---
 
-##  Methodology
-
-### Team Members
+## 👥 Team Members
 1. Aneerban Chowdhury (M24DE3011)
 2. Naresh Krishna Vemuri (M24DE3052)
 3. Pavani Racham (M24DE3059)
